@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5EDDDDED1D667B0B009A1040 /* TBXMLframework.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EDDDDEC1D667B0B009A1040 /* TBXMLframework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5EDDDDF21D667D37009A1040 /* TBXMLframework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EDDDDEA1D667B0B009A1040 /* TBXMLframework.framework */; };
 		8290352714D9F5B200ACF7E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8290352614D9F5B200ACF7E4 /* Foundation.framework */; };
 		8290353414D9F5B200ACF7E4 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 829FA0B114D5B52A00D18697 /* SenTestingKit.framework */; };
 		8290353714D9F5B200ACF7E4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8290352614D9F5B200ACF7E4 /* Foundation.framework */; };
@@ -84,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EDDDDF21D667D37009A1040 /* TBXMLframework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
